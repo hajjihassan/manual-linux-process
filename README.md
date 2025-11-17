@@ -51,9 +51,3 @@ I am learning:
 * How to structure small projects
 * How to use Git the right way
 * How to document my work for others to understand
-
-## 📚 Next Steps (Future Improvements)
-
-
-
-If you want, I can generate an **even simpler README**, or a **more advanced DevOps-style README**, or a **step-by-step documentation folder** to match Udemy-level standards.
